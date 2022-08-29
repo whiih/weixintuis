@@ -1,0 +1,6 @@
+cn\cvzhanshi\wechatpush\config\WeatherUtils.class
+cn\cvzhanshi\wechatpush\WechatpushApplication.class
+cn\cvzhanshi\wechatpush\entity\Weather.class
+cn\cvzhanshi\wechatpush\config\JiNianRiUtils.class
+cn\cvzhanshi\wechatpush\config\CaiHongPiUtils.class
+cn\cvzhanshi\wechatpush\config\Pusher.class
